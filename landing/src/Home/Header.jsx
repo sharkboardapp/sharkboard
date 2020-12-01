@@ -55,6 +55,7 @@ class Header extends React.Component {
             arrowPointAtCenter
             onVisibleChange={this.onMenuVisibleChange}
           >
+            
             <Icon
               className="nav-phone-icon"
               type="menu"
